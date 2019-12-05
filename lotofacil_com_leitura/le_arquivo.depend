@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1430858975 source:z:\le_arquivo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1431720574 source:z:\dropbox\le_arquivo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+
+1431874606 source:c:\users\note\dropbox\le_arquivo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+
+1431875647 source:f:\dropbox\doutorado\c\le_arquivo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+
